@@ -39,7 +39,12 @@ a:hover, a:active, a:focus {
 	color:#F00;
 	}/* style by 
 	*/
-	
+
+h1{
+	font-family:Comic Sans MS", cursive;
+	color:#444444;
+}/* style by 
+	*/
 h2{
 	font-family:Georgia, "Times New Roman", Times, serif;
 	color:#444444;
@@ -47,7 +52,7 @@ h2{
 	*/
 
 h3{
-	font-family:"Comic Sans MS", cursive;
+	font-family:"Georgia, "Times New Roman", Times, serif;
 	color:#555555;
 }/* style by 
 	*/
