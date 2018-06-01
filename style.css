@@ -2,17 +2,16 @@
 
 Choose ONE of the HTML properties to edit and then change the CSS styles assigned to that property. Put your name in the comment next to the HTML element
 */
-
 body{
-	background-color:#999999; 
+	background-color:##3377E4; 
 	font-family:Arial, Helvetica, sans-serif; 
-	}/* style by 
+	}/* style by yong fan
 	*/
 	
 .container {
 	background:#eeeeee;
-	border:2px solid #555555;
-	}/* style by 
+	border:2px solid ##0F5DDB;
+	}/* style by yong fan
 	*/
 	
 .header{
