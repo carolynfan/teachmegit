@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="describe the page content">
+    <meta name="keywords" content="key words, key phrases, words,">
+    <meta name="robots" content="index, follow">
+    <title>Carolyn's Design Portfolio</title>
+</head>
+<body>
+<h1>Yong (Carolyn) Fan -- About Me</h1>
+<h2>Welcome to carolyn's website!</h2>
+<h3>Welcome to carolyn's website!</h3>
+<h4>Welcome to carolyn's website!</h4>
+<h5>Welcome to carolyn's website!</h5>
+<h6>Welcome to carolyn's website!</h6>
+<!-- Block level elements-puts content on next next line -->
+
+<p>Lorem <em>do not continue until reading this disclosure</em>, <i>i agree</i> adipiscing elit. <strong>Sed auctor</strong>, libero quis luctus mattis, <b>urna nibh</b> hendrerit neque, ut placerat libero magna quis neque. Vestibulum finibus efficitur tempus. Fusce quam sem, eleifend sodales elementum nec, <strong><em>lobortis at dolor</strong></em>. Sed fringilla dui eu felis congue ullamcorper. <i lang="fr">Merci</i>Vestibulum posuere condimentum urna, at egestas nisl tempor ut. Nunc faucibus lobortis bibendum. Pellentesque ornare mauris et leo finibus pretium. Vestibulum eleifend eleifend orci, eu viverra ante vestibulum eu. Integer iaculis pretium risus sed vestibulum. Morbi at erat vel elit accumsan sollicitudin. Duis varius consectetur efficitur. In et turpis pharetra elit faucibus tempus sagittis ut elit. Nulla facilisi. <q>Nam quis commodo massa.</q> Suspendisse ac luctus ligula. Nunc dapibus ante a enim elementum mollis.</p>
+
+<p>Fusce sed neque tellus. Suspendisse gravida pharetra justo, at dignissim enim pretium pellentesque. Ut convallis tempus lobortis. Duis quam sem, hendrerit non dui vel, rhoncus consequat eros. Vivamus id mi velit. Donec a eros a odio laoreet blandit pharetra in justo. Aenean imperdiet, lorem sit amet accumsan tempus, turpis orci maximus tortor, vitae iaculis nisl sem at tortor. Vivamus ornare at dolor sit amet dapibus.</p>
+
+<p>Cras vulputate et ligula eget cursus. Maecenas egestas varius semper. Quisque a sodales ex, eu vehicula ex. Cras aliquet tempor iaculis. Aenean dapibus risus eu interdum efficitur. Phasellus placerat, orci eu tincidunt ornare, urna odio tincidunt metus, eget tempor enim nunc et felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam elementum quis lorem in consequat. Praesent ac dolor eget nisi aliquet tincidunt. Praesent sit amet gravida justo. Praesent tristique nisi ac eleifend commodo. Integer ullamcorper elit nec odio facilisis varius. Duis ac velit vitae risus scelerisque aliquam. 
+<del>Fusce</del><ins>TODAY</ins> libero urna, cursus id consequat eget, varius eu urna. Praesent elementum felis at risus aliquet ullamcorper. This is the 3<sup>rd</sup> paragraph and now I am ready for some h<sub>2</sub>0!
+	<dfn>HTML is a markup language.</dfn><!-- italizise content -->
+	</p>
+	
+	<p>Here is some computer code: <code>var="day"</code></p>
+	<p>Here is a keyboard input if use the <kbd>enter</kbd> key.</p>
+	
+
+
+
+
+
+
+<pre>
+So this is
+	a little
+		poem about
+			using    	the
+				pre tag
+which stands for:
+	preformatted!
+</pre>
+
+<address>
+Audrey Blumeneau,<br>
+ <abbr title="University of california Santa Cruz">UCSC</abbr> Extension, <br>
+ 3175 Bowers Ave, <br>
+ Santa Clara, CA, 95054
+</address>
+
+<blockquote>
+Fusce sed neque tellus. Suspendisse gravida pharetra justo, at dignissim enim pretium pellentesque. Ut convallis tempus lobortis. - MLK.
+</blockquote>
+<blockquote>
+Fusce sed neque tellus. Suspendisse gravida <q>pharetra justo, at dignissim enim pretium</q> pellentesque. Ut convallis tempus lobortis. - MLK.
+</blockquote>
+
+
+</body>
+</html>
